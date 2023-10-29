@@ -1,0 +1,9 @@
+# dataset path
+train: VOCDATA/images/train/
+val: VOCDATA/images/val/
+
+# number of classes
+nc: 4
+
+# class names
+names: ['Text', 'Figure', 'Table', 'Equation']
